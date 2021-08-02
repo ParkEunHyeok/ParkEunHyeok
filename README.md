@@ -1,9 +1,6 @@
-
-### Hi there 👋
-
-[![Seongil's github stats](https://github-readme-stats.vercel.app/api?username=ParkEunHyeok)](https://github.com/anuraghazra/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=waving&text=ParkEunHyeok)
+### Hi there! 👋 저는 인공지능을 배우고 있는 학생입니다
+ComputerVision, Natural Language Processing 등 여러 분야에 관심가지고 배우고 있습니다!
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tomas3630)](https://solved.ac/tomas3630)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkEunHyeok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=true)](https://hits.seeyoufarm.com)                  
